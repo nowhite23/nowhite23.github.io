@@ -1,0 +1,46 @@
+#contenedor{
+    text-align: left;
+    width: 1250px;
+    margin: auto;}
+    
+    #lateral{
+    width: 400px; 
+    background-color: #004581; 
+    float:left;
+    text-align: center; 
+    }
+    h1{
+        color: antiquewhite;
+        text-align: center;
+    }
+    h4{
+        color: gray;
+    }
+    .img{
+        text-align: center;
+        margin-top: 25px;
+        border-radius: 15px;
+    }
+    .res{
+        width: 400px;
+        background-color: #018abd;
+    }
+    .col{
+        color: gray;
+    }
+    .tab1{
+        border-right-width: 300;
+        width: 300px;
+    }
+
+    #principal{
+    margin-left: 425px;
+    background-color: #97cbdc;
+    text-align: center;
+   }
+   .h1{
+       color: black;
+   }
+   .cos{
+    border:#000000 3px solid;
+   }
