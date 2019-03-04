@@ -1,0 +1,27 @@
+#navv{
+    background-color:aliceblue;
+}
+.parallax-container {
+    height: 900px;
+  }
+  .nwh{
+      text-align: center;
+      font-size: 400%;
+      font-family: 'Dancing Script', cursive;
+  }
+  h1{
+   font-size: 800%;
+    color: rgb(6, 56, 100);
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+  }
+  .tit{
+      font-family: 'Pacifico', cursive;
+  }
+  .tex{
+      font-family: 'Indie Flower', cursive;
+  }
+  #nw{
+      margin-top: 10px;
+      margin-left: 10px
+  }
